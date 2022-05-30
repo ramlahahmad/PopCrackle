@@ -1,0 +1,11 @@
+var= 1 
+
+while var <= 100:
+    if var/3/5 == int (var/3/5):
+        print("CracklePop")
+    elif var/3 == int(var/3):
+         print ("Crackle")
+    elif var/5 == int(var/5):
+        print ("Pop")
+    else: print(var)
+    var = var + 1
